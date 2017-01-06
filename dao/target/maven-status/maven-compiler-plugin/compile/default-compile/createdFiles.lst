@@ -1,0 +1,3 @@
+com/pvthuan/book/dao/BookDAO.class
+com/pvthuan/book/dao/AbstractJpaDAO.class
+com/pvthuan/book/dao/IBookDAO.class

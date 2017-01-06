@@ -1,0 +1,5 @@
+/home/pvthuan/server/workspace-demo/BookManager/dbaccess/src/main/java/com/pvthuan/book/config/package-info.java
+/home/pvthuan/server/workspace-demo/BookManager/dbaccess/src/main/java/com/pvthuan/book/utils/package-info.java
+/home/pvthuan/server/workspace-demo/BookManager/dbaccess/src/main/java/com/pvthuan/book/utils/ConstanModel.java
+/home/pvthuan/server/workspace-demo/BookManager/dbaccess/src/main/java/com/pvthuan/book/utils/EncryptDecyptUtils.java
+/home/pvthuan/server/workspace-demo/BookManager/dbaccess/src/main/java/com/pvthuan/book/config/PersistenceJPAMySqlConfig.java
